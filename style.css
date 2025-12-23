@@ -13,7 +13,9 @@
 :root{
     --color: orangered;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 button{
     padding: 8px 20px;
     border: none;
